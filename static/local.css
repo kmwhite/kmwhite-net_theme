@@ -68,7 +68,10 @@ h3 { margin-top: 2.5em; }
 
 /* Styling for the "other entries" section */
 /* Metadata */
-.well.small { padding: 6px 6px 4px; }
+.well.small {
+  padding: 6px 6px 4px;
+  font-family: 'Alef', sans-serif;
+}
 
 /* Read more button */
 .btn-info.xsmall {
